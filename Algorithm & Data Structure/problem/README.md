@@ -7,5 +7,6 @@
 ## 백준
 ### 입출력과 사칙연산
 * [2557 Hello World](https://github.com/DaonWoori/TIL/blob/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/2557.md)
+* [10718 We love kriii](https://github.com/DaonWoori/TIL/blob/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/10718.md)
 * [1000 A+B](https://github.com/DaonWoori/TIL/blob/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/1000.md)
 * [1001 A-B](https://github.com/DaonWoori/TIL/blob/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/1001.md)
