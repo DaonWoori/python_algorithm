@@ -14,5 +14,7 @@
 
         
 ## Data Analysis
-
+* [국내 코로나 환자 데이터를 활용한 데이터 분석](https://github.com/DaonWoori/TIL/tree/main/AI/%EA%B5%AD%EB%82%B4%20%EC%BD%94%EB%A1%9C%EB%82%98%20%ED%99%98%EC%9E%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
+* [지하철 승하차 인원 정보를 활용한 역별 혼잡도 분석](https://github.com/DaonWoori/TIL/tree/main/AI/%EC%A7%80%ED%95%98%EC%B2%A0%20%EC%8A%B9%ED%95%98%EC%B0%A8%20%EC%9D%B8%EC%9B%90%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%97%AD%EB%B3%84%20%ED%98%BC%EC%9E%A1%EB%8F%84%20%EB%B6%84%EC%84%9D)
+* [펭귄 몸무게 예측 경진대회](https://github.com/DaonWoori/TIL/tree/main/AI/%ED%8E%AD%EA%B7%84%20%EB%AA%B8%EB%AC%B4%EA%B2%8C%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
