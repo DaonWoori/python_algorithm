@@ -17,14 +17,14 @@
 * 10430 나머지
 * 2588 곱셈
 
-### [if문]
+### [if문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/if%EB%AC%B8)
 * 1330 두 수 비교하기
 * 9498 시험 성적
 * 2753 윤년
 * 14681 사분면 고르기
 * 2884 알람 시계
 
-### [for문]
+### [for문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/for%EB%AC%B8)
 * 2739 구구단
 * 10950 A + B - 3
 * 8393 합
