@@ -36,3 +36,8 @@
 * 2438 별 찍기 - 1
 * 2439 별 찍기 - 2
 * 10871 X보다 작은 수
+
+### [while문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/while%EB%AC%B8)
+* 10952 A + B - 5
+* 10951 A + B - 4
+* 1110 더하기 사이클
