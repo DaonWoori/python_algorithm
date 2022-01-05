@@ -5,12 +5,12 @@
 * [12969 직사각형 별찍기](https://github.com/DaonWoori/TIL/blob/main/Algorithm%20%26%20Data%20Structure/problem/programmers/12969_%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
 
 ## 백준
-### [입출력과 사칙연산](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+* [입출력과 사칙연산](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
 
-### [if문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/if%EB%AC%B8)
+* [if문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/if%EB%AC%B8)
 
-### [for문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/for%EB%AC%B8)
+* [for문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/for%EB%AC%B8)
 
-### [while문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/while%EB%AC%B8)
+* [while문](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/while%EB%AC%B8)
 
-### [1차원 배열](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
+* [1차원 배열](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
