@@ -18,3 +18,5 @@
 * [함수](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%ED%95%A8%EC%88%98) : 1065
 
 * [문자열](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4) : 2941, 1316
+
+* [기본수학](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem/BaekJoon/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99): 2292, 1193, 2869, 2775, 2839, 1011
