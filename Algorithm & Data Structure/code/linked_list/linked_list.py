@@ -9,6 +9,17 @@ class LinkedList:
     def __init__(self):
         self.head = None # 링크드 리스트의 가장 앞 노드
         self.tail = None # 링크드 리스트의 가장 뒤 노드
+    
+    def find_node_at(self, index):
+        """링크드 리스트 접근 연산 메소드. 파라미터 인덱스는 항상 있다고 가정한다"""
+
+        iterator = self.head  # 링크드 리스트를 돌기 위해 필요한 노드 변수
+
+        # index 번째 있는 노드로 간다
+        for _ in range(index):
+            iterator = iterator.next
+
+        return iterator
 
     def find_node_with_data(self, data):
         """
