@@ -9,6 +9,7 @@
 ### 자료구조 관련 코드
 * [해시 테이블](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/code/hash_table)
 * [링크드 리스트](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20&%20Data%20Structure/code/linked_list)
+* [추상 자료형](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/code/abstract_data_type)
 
          
 ### 알고리즘 문제풀이
