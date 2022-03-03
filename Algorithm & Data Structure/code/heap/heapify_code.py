@@ -11,7 +11,7 @@ def swap(tree, index_1, index_2):
     tree[index_1] = tree[index_2]
     tree[index_2] = temp
 
-def heapity(tree, index, tree_size):
+def heapify(tree, index, tree_size):
     """heapify 함수 - 정답 코드"""
     # 왼쪽 자식 노드의 인덱스와 오른쪽 자식 노드의 인덱스를 계산
     left_child_index = index * 2
@@ -30,7 +30,16 @@ def heapity(tree, index, tree_size):
 
     if largest != index: # 부모 노드의 값이 자식 노드의 값보다 작으면
         swap(tree, index, largest) # 부모 노드와 최댓값을 가진 자식 노드의 위치를 바꿔준다
-        heapity(tree, largest, tree_size) # 자리가 바뀌어 자식 노드가 된 기존의 부모 노드를 대상으로 또 heapify 함수를 호출한다
+        heapify(tree, largest, tree_size) # 자리가 바뀌어 자식 노드가 된 기존의 부모 노드를 대상으로 또 heapify 함수를 호출한다
+        
+def reverse_heapify(tree, index):
+    """삽입된 노드를 힙 속성을 지키는 위치로 이동시키는 함수"""
+    parent_index = index // 2  # 삽입된 노드의 부모 노드의 인덱스 계산
+
+    # 부모 노드가 존재하고, 부모 노드의 값이 삽입된 노드의 값보다 작을 때
+    if 0 < parent_index < len(tree) and tree[index] > tree[parent_index]:
+        swap(tree, index, parent_index)  # 부모 노드와 삽입된 노드의 위치 교환
+        reverse_heapify(tree, parent_index)  # 삽입된 노드를 대상으로 다시 reverse_heapify 호출
  
 # def heapify(tree, index, tree_size):
 #     """heapify 함수 - 내가 구현한 방식"""
@@ -49,5 +58,5 @@ def heapity(tree, index, tree_size):
 
 # 실행 코드
 tree = [None, 15, 5, 12, 14, 9, 10, 6, 2, 11, 1] # heapify하려고 하는 완전 이진 트리
-heapity(tree, 2, len(tree))
+heapify(tree, 2, len(tree))
 print(tree)
