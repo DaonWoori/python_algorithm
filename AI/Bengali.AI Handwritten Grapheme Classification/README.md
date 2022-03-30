@@ -11,7 +11,7 @@
 - 7개의 Consonant diacritic
 
 ### Evaluation
-결과는 hierarchical macro-averaged recall을 사용하여 평가한다. 첫번째로, 각 성분(grapheme root: 168 class, vowel diacritics: 11 class and consonant diacritics: 7 class)에 대해 표준 macro-averaged recall이 계산된다. 최종 점수는 각 성분에 대한 3개 점수의 가중치 평균으로, grapheme root에는 이중 가중치가 부여된다. 
+결과는 hierarchical macro-averaged recall을 사용하여 평가한다. 첫번째로, 각 성분(grapheme root, vowel diacritics and consonant diacritics)에 대해 표준 macro-averaged recall이 계산된다. 최종 점수는 각 성분에 대한 3개 점수의 가중치 평균으로, grapheme root에는 이중 가중치가 부여된다. 
 ```
 import numpy as np
 import sklearn.metrics
