@@ -24,4 +24,13 @@ for component in ['grapheme_root', 'consonant_diacritic', 'vowel_diacritic']:
 final_score = np.average(scores, weights=[2,1,1])
 ```
 
+**Submission File**
+```
+row_id,target
+Test_0_grapheme_root,3
+Test_1_grapheme_root,2
+Test_2_grapheme_root,1
+...
+```
+
 링크: https://www.kaggle.com/competitions/bengaliai-cv19/overview
