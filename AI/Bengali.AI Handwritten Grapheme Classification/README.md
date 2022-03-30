@@ -27,9 +27,12 @@ final_score = np.average(scores, weights=[2,1,1])
 **Submission File**
 ```
 row_id,target
-Test_0_grapheme_root,3
-Test_1_grapheme_root,2
-Test_2_grapheme_root,1
+Test_0_consonant_diacritic, 0
+Test_0_grapheme_root, 0
+Test_0_vowel_diacritic, 0
+Test_1_consonant_diacritic, 0
+Test_1_grapheme_root, 0
+Test_1_vowel_diacritic, 0
 ...
 ```
 
