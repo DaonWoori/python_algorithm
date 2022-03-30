@@ -6,9 +6,9 @@
 벵골어는 세계에서 다섯 번째로 많이 사용되는 언어이다. 방글라데시의 공용어이고, 인도에서 두 번째로 많이 사용되는 언어이다. 벵골어는 다른 언어에 비해 구조가 복잡하기 때문에  벵골어 문자에 대한 인식이 더 어렵다.
 
 이 대회에서는 손으로 쓴 벵골어 문자 이미지가 제공된다. 이미지에서 그래핌 루트(Grapheme root), 모음 디아크리틱스(Vowel diacritic), 자음 디아크리틱스(Consonant diacritic) 세 가지 성분을 개별적으로 분류해야 한다.
-- 168개의 Grapheme root: 자소
-- 11개의 Vowel diacritic: 모음
-- 7개의 Consonant diacritic: 자음
+- 168개의 Grapheme root
+- 11개의 Vowel diacritic
+- 7개의 Consonant diacritic
 
 ### Evaluation
 결과는 hierarchical macro-averaged recall을 사용하여 평가한다. 첫번째로, 각 성분(grapheme root, vowel diacritics and consonant diacritics)에 대해 표준 macro-averaged recall이 계산된다. 최종 점수는 각 성분에 대한 3개 점수의 가중치 평균으로, grapheme root에는 이중 가중치가 부여된다. 
