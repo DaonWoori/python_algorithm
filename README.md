@@ -7,14 +7,11 @@
 * [파이썬을 파이썬답게](https://github.com/DaonWoori/TIL/blob/main/Algorithm%20%26%20Data%20Structure/theory/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C.md)
       
 ### 자료구조 관련 코드
-* [해시 테이블](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/code/hash_table)
-* [링크드 리스트](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20&%20Data%20Structure/code/linked_list)
-* [추상 자료형](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/code/abstract_data_type)
-* [트리](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/code/tree)
+* [code](https://github.com/DaonWoori/TIL/tree/main/Data%20Structure)
 
          
 ### 알고리즘 문제풀이
-* [solutions](https://github.com/DaonWoori/TIL/tree/main/Algorithm%20%26%20Data%20Structure/problem)
+* [solutions](https://github.com/DaonWoori/TIL/tree/main/Algorithm)
 
         
 ## AI
