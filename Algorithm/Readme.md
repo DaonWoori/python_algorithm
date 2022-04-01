@@ -7,11 +7,9 @@
 ## 백준
 * [입출력과 사칙연산]()
 
-* [if문]()
+* [조건문]()
 
-* [for문]()
-
-* [while문]()
+* [반복문](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%B0%98%EB%B3%B5%EB%AC%B8): 10951
 
 * [1차원 배열]()
 
