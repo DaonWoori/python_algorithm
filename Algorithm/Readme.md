@@ -5,15 +5,15 @@
 * [12969 직사각형 별찍기]()
 
 ## 백준
-* [입출력과 사칙연산]()
+* [입출력과 사칙연산](): 2588
 
-* [조건문]()
+* [조건문](): 2525, 2480
 
-* [반복문](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%B0%98%EB%B3%B5%EB%AC%B8): 10951
+* [반복문](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%B0%98%EB%B3%B5%EB%AC%B8): 10951, 10952
 
 * [1차원 배열]()
 
-* [함수]() : 4673
+* [함수]() : 1675, 4673
 
 * [문자열]() : 2941, 1316
 
