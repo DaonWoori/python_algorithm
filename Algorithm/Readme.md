@@ -11,7 +11,7 @@
 
 * [반복문](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%B0%98%EB%B3%B5%EB%AC%B8): 10951, 10952
 
-* [1차원 배열]()
+* [1차원 배열](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4)
 
 * [함수]() : 1675, 4673
 
