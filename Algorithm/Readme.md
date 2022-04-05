@@ -7,7 +7,7 @@
 ## 백준
 * [입출력과 사칙연산](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0): 2588
 
-* [조건문](): 2525, 2480
+* [조건문](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8): 2525, 2480
 
 * [반복문](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%B0%98%EB%B3%B5%EB%AC%B8): 10951, 10952
 
