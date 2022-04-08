@@ -15,6 +15,6 @@
 
 * [함수](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%ED%95%A8%EC%88%98) : 1675, 4673
 
-* [문자열](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4) : 1157
+* [문자열](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EB%AC%B8%EC%9E%90%EC%97%B4) : 1157, 2941, 1316
 
 * [기본수학](): 2292, 1193, 2869, 2775, 2839, 1011
