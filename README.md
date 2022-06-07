@@ -1,6 +1,6 @@
 # TIL
 2021년 12월 17일 시작
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ## Algorithm
 ### 파이썬 기초
