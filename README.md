@@ -1,8 +1,7 @@
 # TIL
 2021년 12월 17일 시작
 
-* 사용하는 언어
-
+## 사용하는 언어
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 
 ## Algorithm
