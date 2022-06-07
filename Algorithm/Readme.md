@@ -20,3 +20,8 @@
 * [기본수학](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EA%B8%B0%EB%B3%B8%EC%88%98%ED%95%99): 2292, 1193, 2869, 2839, 2775, 1978, 1929, 4948, 9020, 1002
 
 * [재귀](https://github.com/DaonWoori/TIL/tree/main/Algorithm/BaekJoon/%EC%9E%AC%EA%B7%80)
+
+## 이것이 코딩테스트다
+* [그리디]()
+
+* [구현](https://github.com/DaonWoori/TIL/tree/main/Algorithm/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/%EA%B5%AC%ED%98%84)
