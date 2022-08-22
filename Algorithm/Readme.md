@@ -3,7 +3,7 @@
 
 ## 이론
 * [파이썬 기초](https://github.com/DaonWoori/TIL/blob/main/Algorithm/theory/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C.md)
-* [알고리즘 기초]()
+* [알고리즘 기초](https://github.com/DaonWoori/TIL/blob/main/Algorithm/theory/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B8%B0%EC%B4%88.md)
 * [재귀]()
 * [브루트포스]()
 * [그리디]()
