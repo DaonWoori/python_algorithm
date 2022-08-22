@@ -6,7 +6,7 @@
 
 
 ## Algorithm
-* [Theory]()
+* [Theory](https://github.com/DaonWoori/TIL/tree/main/Algorithm/theory)
 * [Solutions](https://github.com/DaonWoori/TIL/tree/main/Algorithm)
 
 ## Data Structure
