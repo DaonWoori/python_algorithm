@@ -7,14 +7,9 @@
 
 
 ## Algorithm
-### 파이썬 기초
-* [파이썬을 파이썬답게](https://github.com/DaonWoori/TIL/blob/main/Algorithm/theory/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C.md)
-         
-### 알고리즘 문제풀이
-* [solutions](https://github.com/DaonWoori/TIL/tree/main/Algorithm)
-
-## Data Structure
-* [code](https://github.com/DaonWoori/TIL/tree/main/Data%20Structure)
+* [Theory]()
+* [Solutions](https://github.com/DaonWoori/TIL/tree/main/Algorithm)
+* [Data Structure](https://github.com/DaonWoori/TIL/tree/main/Data%20Structure)
   
 ## AI
 * [국내 코로나 환자 데이터를 활용한 데이터 분석](https://github.com/DaonWoori/TIL/tree/main/AI/%EA%B5%AD%EB%82%B4%20%EC%BD%94%EB%A1%9C%EB%82%98%20%ED%99%98%EC%9E%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
