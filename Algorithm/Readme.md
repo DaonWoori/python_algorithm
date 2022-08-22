@@ -2,7 +2,7 @@
 [백준](https://www.acmicpc.net/step)과 [프로그래머스]()의 알고리즘 문제들을 **python3**를 활용하여 풀이
 
 ## 이론
-* [파이썬 기초]()
+* [파이썬 기초](https://github.com/DaonWoori/TIL/blob/main/Algorithm/theory/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%8B%B5%EA%B2%8C.md)
 * [알고리즘 기초]()
 * [재귀]()
 * [브루트포스]()
