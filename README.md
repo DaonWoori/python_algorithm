@@ -15,3 +15,6 @@
 * [Code](https://github.com/DaonWoori/TIL/tree/main/Data%20Structure)
   
 ## AI
+
+## Python
+- <알 스웨이가트의 파이썬 프로젝트>에 나오는 
