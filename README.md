@@ -16,6 +16,6 @@
 ##### 백준 문제 풀이 [:link:](https://github.com/DaonWoori/TIL/tree/main/Algorithm)
 
 ### 자료구조
-#### 자료구조 코드 [:link:]([https://github.com/DaonWoori/TIL/tree/main/Data%20Structure](https://github.com/DaonWoori/python_algorithm/tree/main/Data%20Structure)https://github.com/DaonWoori/python_algorithm/tree/main/Data%20Structure)
+##### 자료구조 코드 [:link:](https://github.com/DaonWoori/python_algorithm/tree/main/Data%20Structure)https://github.com/DaonWoori/python_algorithm/tree/main/Data%20Structure)
 
 
